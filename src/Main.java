@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Hello");
         System.out.println("Hello from outside");
+        System.out.println("More changes");
     }
 }
